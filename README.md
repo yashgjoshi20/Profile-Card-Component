@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [Solution  URL] (https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: [GitHub Pages Live URL] (https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL: (https://github.com/yashgjoshi20/Profile-Card-Component.git)
+- Live Site URL: (https://yashgjoshi20.github.io/Profile-Card-Component/)
 
 ## My process
 
@@ -45,4 +45,4 @@ Added media queries for smaller devices to show optimal layout to the user.
  ## Author
 
 - GitHub - Yash Joshi (https://github.com/yashgjoshi20)
-- Frontend Mentor - Yash Joshi (https://www.frontendmentor.io/profile/yashgjoshi20)
+- Frontend Mentor - (https://www.frontendmentor.io/?ref=challenge)
